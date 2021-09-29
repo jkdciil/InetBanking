@@ -1,0 +1,14 @@
+BaseURL=http://demo.guru99.com/V4
+UserName=mngr354842
+PassWord=gYgYtaj
+CDFL=C:\Vishnu Projects\New Projects\InetBankingV1\src\test\resources\Drivers\chromedriver.exe
+GDFL=C:\Vishnu Projects\New Projects\InetBankingV1\src\test\resources\Drivers\geckodriver.exe
+MDFL=C:\Vishnu Projects\New Projects\InetBankingV1\src\test\resources\Drivers\msedgedriver.exe
+
+
+
+
+
+
+////next project\\\\
+BaseURL2=https://opensource-demo.orangehrmlive.com/
